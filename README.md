@@ -8,7 +8,7 @@ This repository is used to practice web scraping and processing content from a w
 
 ## Step 1: Getting Started
 
-1. Copy the base repository into your GitHub account
+1. Copy the base repository into your GitHub account using the following template: [wmnlp-materials/web-scraping](https://github.com/wmnlp-materials/json-sentiment)
 
 2. Clone your new repository down to your machine
 
